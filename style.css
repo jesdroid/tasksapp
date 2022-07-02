@@ -43,10 +43,16 @@
 {
     
 }
+.carousel-item
+{
+    margin-top: 10px !important;
+}
 .carousel-item img
 {
     width: 100%;
     height: auto;
+    border-radius: 10px !important;
+    margin-top: 10px !important;
 }
 .topnavfixvk
 {
