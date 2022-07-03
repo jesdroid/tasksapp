@@ -101,3 +101,8 @@
     position: fixed;
     z-index: 99;
 }
+.topnav-profile a
+{
+    text-decoration: none;
+    color: black;
+}
