@@ -3,15 +3,20 @@
     margin: 0;
     padding: 0;
 }
+::selection
+{
+    background-color: #bfdcff;
+    color: black;
+}
 .nav-tabs
 {
     --bs-nav-tabs-border-radius: 0rem !important;
     --bs-nav-tabs-link-active-border-color: #fff #dee2e6 #dee2e6 !important;
     border-bottom: none !important);
 }
-.nav-tabs .nav-link
+.hm-tab
 {
-
+    margin-bottom: 30px;
 }
 .nvbrvk
 {
@@ -103,6 +108,6 @@
 }
 .topnav-profile a
 {
-    text-decoration: none;
+    text-decoration: none !important;
     color: black;
 }
