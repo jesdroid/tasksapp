@@ -117,3 +117,22 @@ box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.39);
     text-decoration: none !important;
     color: black;
 }
+
+/* Home tab-- */
+.cardbtn
+{
+    text-decoration: none;
+    border: black solid 1px;
+    color: black;
+    border-radius: 3px;
+    padding: 8px;
+}
+.vkcard{
+    background: #f7f5ff !important;
+    /* color: white !important; */
+    margin: 10px !important;
+}
+.containervkm{
+    margin: 50px !important;
+    margin-top: 0px !important;
+}
