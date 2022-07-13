@@ -130,9 +130,9 @@ box-shadow: 0px 1px 9px 0px rgba(0,0,0,0.39);
 .vkcard{
     background: #f7f5ff !important;
     /* color: white !important; */
-    margin: 10px !important;
+    margin-right: 10px !important;
 }
-.containervkm{
-    margin: 50px !important;
+.vkm{
+    /* margin-right: 50px !important; */
     margin-top: 0px !important;
 }
